@@ -15,11 +15,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.alivepic = `https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg `
+global.alivepic = `https://i.ibb.co/V97TPKb/20230204-090535.jpg `
 global.owner = ['94771232992'] //ur owner number
 global.ownername = "Dumidu" //ur owner name
 global.ytname = "YT:divert flowers" //ur yt chanel name
-global.socialm = "Dark Nero" //ur github or insta name
+global.socialm = "Dumidu" //ur github or insta name
 global.location = "Sri Lanka, Gampaha, Kurunegala" //ur location
 
 //bot bomdy 
